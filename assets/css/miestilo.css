@@ -1,0 +1,28 @@
+/*------BARRA NAVEGACION--------*/
+.barra_navegacion{
+    background: linear-gradient(#9F9FFF,#72B2E4) !important;
+}
+
+.nav_buscar{
+    width: 150px;
+}
+
+.nav_btn_buscar{
+    color: black;
+    border-color: black;
+}
+
+.nav_btn_buscar :hover{
+    background-color: #9F9FFF;
+}
+/*------BARRA NAVEGACION--------*/
+
+/*------PRINCIPAL--------*/
+.tamaño-carrusel{
+    height: 900px;
+}
+
+.boton-carrusel{
+    color: black;
+    border-color: black;
+}
